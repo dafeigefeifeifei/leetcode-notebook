@@ -15,13 +15,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1115PrintFoobarAlternately.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P222CountCompleteTreeNodes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="63" column="52" lean-forward="true" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+            <state relative-caret-position="588">
+              <caret line="48" column="70" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
               <folding>
-                <element signature="e#0#1543#0" expanded="true" />
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#895#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,6 +46,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P592FractionAdditionAndSubtraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P20ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1115PrintFoobarAlternately.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P222CountCompleteTreeNodes.java" />
       </list>
     </option>
   </component>
@@ -199,12 +201,12 @@
       <workItem from="1571825264913" duration="1460000" />
       <workItem from="1571883823381" duration="8287000" />
       <workItem from="1572056942620" duration="7431000" />
-      <workItem from="1572509818483" duration="11284000" />
+      <workItem from="1572509818483" duration="11781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28462000" />
+    <option name="totallyTimeSpent" value="28959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-542" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -225,7 +227,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" weight="0.2369863" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49919224" visible="true" weight="0.23663366" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.2369863" />
       <window_info anchor="bottom" id="Statistic" order="10" />
@@ -239,7 +241,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info active="true" anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.23695421" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.23695421" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="SciView" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -429,11 +431,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1115PrintFoobarAlternately.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="63" column="52" lean-forward="true" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+        <state relative-caret-position="622">
+          <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
           <folding>
             <element signature="e#0#1543#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P222CountCompleteTreeNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="48" column="70" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#895#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
           </folding>
         </state>
       </provider>
