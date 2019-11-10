@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,29 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P926FlipStringToMonotoneIncreasing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.java">
+      <file leaf-file-name="P1114PrintInOrder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1114PrintInOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1365">
-              <caret line="91" column="39" lean-forward="true" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+            <state relative-caret-position="602">
+              <caret line="94" column="25" lean-forward="true" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
               <folding>
-                <element signature="e#0#2051#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P92ReverseLinkedListIi.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#1487#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#977#978#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#0#1944#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1114PrintInOrder.java" />
       </list>
     </option>
   </component>
@@ -92,9 +79,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -336,7 +322,7 @@
       <workItem from="1571883823381" duration="8287000" />
       <workItem from="1572056942620" duration="7431000" />
       <workItem from="1572509818483" duration="16728000" />
-      <workItem from="1573020269241" duration="13742000" />
+      <workItem from="1573020269241" duration="14813000" />
     </task>
     <servers />
   </component>
@@ -373,10 +359,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47648000" />
+    <option name="totallyTimeSpent" value="48719000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -386,11 +372,11 @@
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32804757" sideWeight="0.49919224" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32804757" sideWeight="0.49919224" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23695421" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31831187" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23587711" sideWeight="0.4968051" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2870929" sideWeight="0.4968051" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3088392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -720,13 +706,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
+        <state relative-caret-position="274">
           <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
             <element signature="e#0#1487#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#977#978#0" expanded="true" />
             <element signature="e#993#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1114PrintInOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="94" column="25" lean-forward="true" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#1944#0" expanded="true" />
           </folding>
         </state>
       </provider>
