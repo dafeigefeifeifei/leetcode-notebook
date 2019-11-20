@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="" />
+    <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,17 +24,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P450DeleteNodeInABst.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java">
+    <leaf>
+      <file leaf-file-name="P985SumOfEvenNumbersAfterQueries.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="141" column="35" lean-forward="false" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
+            <state relative-caret-position="218">
+              <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
               <folding>
-                <element signature="e#0#4651#0" expanded="true" />
+                <element signature="e#0#2602#0" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#2188#2189#0" expanded="true" />
-                <element signature="e#2204#2205#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1138AlphabetBoardPath.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P217ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java" />
       </list>
     </option>
   </component>
@@ -179,57 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P450DeleteNodeInABst.testResult4">
-    <configuration name="P450DeleteNodeInABst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P450DeleteNodeInABst" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="P450DeleteNodeInABst.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P450DeleteNodeInABst" />
-      <option name="METHOD_NAME" value="testResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.P985SumOfEvenNumbersAfterQueries">
     <configuration name="P450DeleteNodeInABst.testResult2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -243,31 +195,6 @@
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P450DeleteNodeInABst" />
       <option name="METHOD_NAME" value="testResult2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="P450DeleteNodeInABst.testResult3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P450DeleteNodeInABst" />
-      <option name="METHOD_NAME" value="testResult3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -305,20 +232,95 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="P985SumOfEvenNumbersAfterQueries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P985SumOfEvenNumbersAfterQueries" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="P985SumOfEvenNumbersAfterQueries.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P985SumOfEvenNumbersAfterQueries" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="P985SumOfEvenNumbersAfterQueries.testResult2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P985SumOfEvenNumbersAfterQueries" />
+      <option name="METHOD_NAME" value="testResult2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult3" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult4" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult2" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult4" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P985SumOfEvenNumbersAfterQueries.testResult" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P985SumOfEvenNumbersAfterQueries.testResult2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P985SumOfEvenNumbersAfterQueries" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult4" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult2" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult3" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P985SumOfEvenNumbersAfterQueries" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P985SumOfEvenNumbersAfterQueries.testResult2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P985SumOfEvenNumbersAfterQueries.testResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult4" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P450DeleteNodeInABst.testResult2" />
       </list>
     </recent_temporary>
   </component>
@@ -348,44 +350,45 @@
       <workItem from="1573533335714" duration="154000" />
       <workItem from="1573612214934" duration="149000" />
       <workItem from="1574215962175" duration="1192000" />
-      <workItem from="1574217179678" duration="12137000" />
+      <workItem from="1574217179678" duration="12380000" />
+      <workItem from="1574239497468" duration="2679000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P450DeleteNodeInABst - 2019.11.20 at 16h 36m 02s.xml">
-      <configuration name="P450DeleteNodeInABst" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult2 - 2019.11.20 at 16h 37m 13s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult2 - 2019.11.20 at 16h 37m 16s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult3 - 2019.11.20 at 16h 14m 46s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult3 - 2019.11.20 at 16h 16m 14s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult3 - 2019.11.20 at 16h 16m 17s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult4 - 2019.11.20 at 16h 19m 21s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P450DeleteNodeInABst_testResult4 - 2019.11.20 at 16h 35m 55s.xml">
-      <configuration name="P450DeleteNodeInABst.testResult4" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="P450DeleteNodeInABst_testResult4 - 2019.11.20 at 16h 40m 23s.xml">
       <configuration name="P450DeleteNodeInABst.testResult4" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P450DeleteNodeInABst_testResult4 - 2019.11.20 at 16h 40m 26s.xml">
       <configuration name="P450DeleteNodeInABst.testResult4" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult - 2019.11.20 at 17h 14m 00s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult - 2019.11.20 at 17h 16m 33s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult - 2019.11.20 at 17h 20m 56s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult - 2019.11.20 at 17h 21m 56s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult - 2019.11.20 at 17h 22m 45s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult2 - 2019.11.20 at 17h 27m 13s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult2 - 2019.11.20 at 17h 29m 32s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P985SumOfEvenNumbersAfterQueries_testResult2 - 2019.11.20 at 17h 29m 55s.xml">
+      <configuration name="P985SumOfEvenNumbersAfterQueries.testResult2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67351000" />
+    <option name="totallyTimeSpent" value="70273000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,7 +410,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.49356222" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.49356222" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.49356222" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -557,15 +560,18 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="isLeft" language="JAVA" />
-        <watch expression="root.val" language="JAVA" />
-        <watch expression="pre.val" language="JAVA" />
-        <watch expression="parent" language="JAVA" />
+        <watch expression="sum" language="JAVA" />
       </configuration>
       <configuration name="Application">
         <watch expression="stack.peek()" language="JAVA" />
@@ -574,6 +580,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>sum</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>parent</expression-string>
         <language-id>JAVA</language-id>
@@ -614,16 +630,6 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>head</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>cur</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
@@ -631,9 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2456#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,33 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2640">
           <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P950RevealCardsInIncreasingOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2640">
-          <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
@@ -700,7 +675,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2640">
           <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P950RevealCardsInIncreasingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -846,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2220">
           <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,7 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
@@ -878,24 +874,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1138AlphabetBoardPath.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1138AlphabetBoardPath.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1138AlphabetBoardPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-273">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2456#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -903,9 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#1544#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -913,7 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,10 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#870#1063#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -940,19 +914,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="194" column="102" lean-forward="false" selection-start-line="194" selection-start-column="102" selection-end-line="194" selection-end-column="102" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="2115">
           <caret line="141" column="35" lean-forward="false" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
           <folding>
             <element signature="e#0#4651#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#2188#2189#0" expanded="true" />
             <element signature="e#2204#2205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#2602#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
