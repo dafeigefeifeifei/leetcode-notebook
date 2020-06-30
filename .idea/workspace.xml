@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,73 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P1047RemoveAllAdjacentDuplicatesInString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1047RemoveAllAdjacentDuplicatesInString.java">
+      <file leaf-file-name="P1417ReformatTheString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="98" column="29" lean-forward="true" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
               <folding>
-                <element signature="e#0#1551#0" expanded="true" />
+                <element signature="e#0#2206#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P217ContainsDuplicate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P217ContainsDuplicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#1544#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P1221SplitAStringInBalancedStrings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1221SplitAStringInBalancedStrings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#1935#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P561ArrayPartitionI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P561ArrayPartitionI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#1048#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P1413MinimumValueToGetPositiveStepByStepSum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="80" column="31" lean-forward="true" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#2251#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50425">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -150,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P561ArrayPartitionI.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 05TiHuanKongGeLcof.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java" />
       </list>
     </option>
   </component>
@@ -254,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P1413MinimumValueToGetPositiveStepByStepSum">
+  <component name="RunManager" selected="JUnit.P1417ReformatTheString.testResult">
     <configuration name="P1221SplitAStringInBalancedStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -330,7 +269,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P443StringCompression" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P1417ReformatTheString.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -341,9 +280,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P443StringCompression" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1417ReformatTheString" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -381,19 +320,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P443StringCompression" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings.testResult" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P561ArrayPartitionI.testResult" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P1413MinimumValueToGetPositiveStepByStepSum" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings.testResult" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P561ArrayPartitionI.testResult" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P1413MinimumValueToGetPositiveStepByStepSum" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P1417ReformatTheString.testResult" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P1413MinimumValueToGetPositiveStepByStepSum" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P561ArrayPartitionI.testResult" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings.testResult" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P443StringCompression" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P1417ReformatTheString.testResult" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P1413MinimumValueToGetPositiveStepByStepSum" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P561ArrayPartitionI.testResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P1221SplitAStringInBalancedStrings.testResult" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +369,7 @@
       <workItem from="1591448968209" duration="61000" />
       <workItem from="1593163768058" duration="243000" />
       <workItem from="1593164174410" duration="1521000" />
-      <workItem from="1593487489535" duration="834000" />
+      <workItem from="1593487489535" duration="2171000" />
     </task>
     <servers />
   </component>
@@ -444,20 +383,20 @@
     <history-entry file="P1413MinimumValueToGetPositiveStepByStepSum - 2020.06.30 at 11h 38m 33s.xml">
       <configuration name="P1413MinimumValueToGetPositiveStepByStepSum" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P443StringCompression - 2020.04.03 at 11h 30m 56s.xml">
-      <configuration name="P443StringCompression" configurationId="JUnit" />
+    <history-entry file="P1417ReformatTheString_testResult - 2020.06.30 at 11h 55m 45s.xml">
+      <configuration name="P1417ReformatTheString.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P443StringCompression - 2020.04.03 at 11h 42m 44s.xml">
-      <configuration name="P443StringCompression" configurationId="JUnit" />
+    <history-entry file="P1417ReformatTheString_testResult - 2020.06.30 at 11h 57m 17s.xml">
+      <configuration name="P1417ReformatTheString.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P443StringCompression_testResult4 - 2020.04.03 at 11h 07m 28s.xml">
-      <configuration name="P443StringCompression.testResult4" configurationId="JUnit" />
+    <history-entry file="P1417ReformatTheString_testResult - 2020.06.30 at 11h 57m 37s.xml">
+      <configuration name="P1417ReformatTheString.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P443StringCompression_testResult4 - 2020.04.03 at 11h 10m 00s.xml">
-      <configuration name="P443StringCompression.testResult4" configurationId="JUnit" />
+    <history-entry file="P1417ReformatTheString_testResult - 2020.06.30 at 11h 58m 29s.xml">
+      <configuration name="P1417ReformatTheString.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P443StringCompression_testResult4 - 2020.04.03 at 11h 40m 09s.xml">
-      <configuration name="P443StringCompression.testResult4" configurationId="JUnit" />
+    <history-entry file="P1417ReformatTheString_testResult - 2020.06.30 at 11h 58m 56s.xml">
+      <configuration name="P1417ReformatTheString.testResult" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P443StringCompression_testResult4 - 2020.04.03 at 11h 41m 30s.xml">
       <configuration name="P443StringCompression.testResult4" configurationId="JUnit" />
@@ -467,7 +406,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85320000" />
+    <option name="totallyTimeSpent" value="86657000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -663,8 +602,20 @@
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -730,14 +681,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P345ReverseVowelsOfAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1009,7 +952,7 @@
         <state relative-caret-position="660">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1544#0" expanded="true" />
+            <element signature="e#0#1544#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1019,7 +962,7 @@
         <state relative-caret-position="705">
           <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1935#0" expanded="true" />
+            <element signature="e#0#1935#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1029,7 +972,7 @@
         <state relative-caret-position="810">
           <caret line="58" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1551#0" expanded="true" />
+            <element signature="e#0#1551#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1062,11 +1005,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="80" column="31" lean-forward="true" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
+        <state relative-caret-position="296">
+          <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
           <folding>
-            <element signature="e#0#2251#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#2251#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="98" column="29" lean-forward="true" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#2206#0" expanded="true" />
           </folding>
         </state>
       </provider>
