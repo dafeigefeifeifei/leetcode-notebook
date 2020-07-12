@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P322CoinChange$Solution.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P322CoinChange$Solution.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,13 +100,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P322CoinChange.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P322CoinChange.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P322CoinChange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <element signature="e#0#1525#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="91" column="36" lean-forward="true" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#1732#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1280#1281#0" expanded="true" />
+                <element signature="e#1296#1297#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P124BinaryTreeMaximumPathSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P509FibonacciNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P322CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.java" />
       </list>
     </option>
   </component>
@@ -286,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P322CoinChange">
+  <component name="RunManager" selected="JUnit.P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult">
     <configuration name="P124BinaryTreeMaximumPathSum.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -387,7 +404,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -398,9 +415,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -413,19 +430,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P728SelfDividingNumbers.testResult" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P124BinaryTreeMaximumPathSum.testResult" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P509FibonacciNumber.testResult" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P728SelfDividingNumbers.testResult" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P124BinaryTreeMaximumPathSum.testResult" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P509FibonacciNumber.testResult" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P509FibonacciNumber.testResult" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P124BinaryTreeMaximumPathSum.testResult" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P728SelfDividingNumbers.testResult" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P509FibonacciNumber.testResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P124BinaryTreeMaximumPathSum.testResult" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P728SelfDividingNumbers.testResult" />
       </list>
     </recent_temporary>
   </component>
@@ -465,14 +482,11 @@
       <workItem from="1593487489535" duration="3073000" />
       <workItem from="1594353367640" duration="270000" />
       <workItem from="1594365222758" duration="9242000" />
-      <workItem from="1594533875259" duration="1262000" />
+      <workItem from="1594533875259" duration="2309000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P124BinaryTreeMaximumPathSum_testResult - 2020.07.12 at 11h 15m 09s.xml">
-      <configuration name="P124BinaryTreeMaximumPathSum.testResult" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="P124BinaryTreeMaximumPathSum_testResult - 2020.07.12 at 11h 15m 12s.xml">
       <configuration name="P124BinaryTreeMaximumPathSum.testResult" configurationId="JUnit" />
     </history-entry>
@@ -500,9 +514,12 @@
     <history-entry file="P728SelfDividingNumbers_testResult - 2020.07.12 at 11h 10m 47s.xml">
       <configuration name="P728SelfDividingNumbers.testResult" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof_testResult - 2020.07.12 at 16h 14m 35s.xml">
+      <configuration name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98333000" />
+    <option name="totallyTimeSpent" value="99380000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,11 +542,11 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.48783976" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.48497853" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23891273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23891273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -790,7 +807,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P675CutOffTreesForGolfEvent.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P345ReverseVowelsOfAString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1004,6 +1020,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-50425">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,10 +1120,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P322CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="e#0#1525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="91" column="36" lean-forward="true" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#1732#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1296#1297#0" expanded="true" />
           </folding>
         </state>
       </provider>
