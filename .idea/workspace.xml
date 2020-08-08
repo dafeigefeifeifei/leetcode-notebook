@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P136SingleNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P136SingleNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
+            <state relative-caret-position="600">
               <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
               <folding>
                 <element signature="e#0#1155#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1408StringMatchingInAnArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1408StringMatchingInAnArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P783MinimumDistanceBetweenBstNodes.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P111MinimumDepthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1408StringMatchingInAnArray.java" />
       </list>
     </option>
   </component>
@@ -206,32 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P136SingleNumber">
-    <configuration name="P111MinimumDepthOfBinaryTree.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P111MinimumDepthOfBinaryTree" />
-      <option name="METHOD_NAME" value="testResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.P1408StringMatchingInAnArray.testResult3">
     <configuration name="P136SingleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -282,7 +265,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P783MinimumDistanceBetweenBstNodes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P1408StringMatchingInAnArray.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -293,9 +276,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P783MinimumDistanceBetweenBstNodes" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1408StringMatchingInAnArray" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -307,7 +290,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P783MinimumDistanceBetweenBstNodes.testResult2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P1408StringMatchingInAnArray.testResult2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -318,7 +301,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P783MinimumDistanceBetweenBstNodes" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1408StringMatchingInAnArray" />
       <option name="METHOD_NAME" value="testResult2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -332,20 +315,45 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="P1408StringMatchingInAnArray.testResult3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1408StringMatchingInAnArray" />
+      <option name="METHOD_NAME" value="testResult3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P783MinimumDistanceBetweenBstNodes.testResult2" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P783MinimumDistanceBetweenBstNodes" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P111MinimumDepthOfBinaryTree.testResult" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P136SingleNumber.testResult" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P136SingleNumber" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P136SingleNumber.testResult" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P136SingleNumber" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P136SingleNumber" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P136SingleNumber.testResult" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P111MinimumDepthOfBinaryTree.testResult" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P783MinimumDistanceBetweenBstNodes" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P783MinimumDistanceBetweenBstNodes.testResult2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult3" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult2" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P136SingleNumber" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P136SingleNumber.testResult" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +397,7 @@
       <workItem from="1595484287623" duration="426000" />
       <workItem from="1595554812485" duration="2620000" />
       <workItem from="1595560614495" duration="117000" />
-      <workItem from="1596877142497" duration="1951000" />
+      <workItem from="1596877142497" duration="3992000" />
     </task>
     <servers />
   </component>
@@ -400,17 +408,17 @@
     <history-entry file="P136SingleNumber_testResult - 2020.08.08 at 17h 38m 24s.xml">
       <configuration name="P136SingleNumber.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P783MinimumDistanceBetweenBstNodes - 2020.07.12 at 16h 54m 51s.xml">
-      <configuration name="P783MinimumDistanceBetweenBstNodes" configurationId="JUnit" />
+    <history-entry file="P1408StringMatchingInAnArray_testResult - 2020.08.08 at 18h 04m 12s.xml">
+      <configuration name="P1408StringMatchingInAnArray.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult - 2020.07.12 at 16h 32m 54s.xml">
-      <configuration name="P783MinimumDistanceBetweenBstNodes.testResult" configurationId="JUnit" />
+    <history-entry file="P1408StringMatchingInAnArray_testResult - 2020.08.08 at 18h 22m 37s.xml">
+      <configuration name="P1408StringMatchingInAnArray.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult - 2020.07.12 at 16h 36m 32s.xml">
-      <configuration name="P783MinimumDistanceBetweenBstNodes.testResult" configurationId="JUnit" />
+    <history-entry file="P1408StringMatchingInAnArray_testResult2 - 2020.08.08 at 18h 23m 15s.xml">
+      <configuration name="P1408StringMatchingInAnArray.testResult2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult - 2020.07.12 at 16h 38m 34s.xml">
-      <configuration name="P783MinimumDistanceBetweenBstNodes.testResult" configurationId="JUnit" />
+    <history-entry file="P1408StringMatchingInAnArray_testResult3 - 2020.08.08 at 18h 23m 49s.xml">
+      <configuration name="P1408StringMatchingInAnArray.testResult3" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult - 2020.07.12 at 16h 41m 44s.xml">
       <configuration name="P783MinimumDistanceBetweenBstNodes.testResult" configurationId="JUnit" />
@@ -426,7 +434,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106516000" />
+    <option name="totallyTimeSpent" value="108557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -740,7 +748,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P110BalancedBinaryTree.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P20ValidParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -1091,11 +1098,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="600">
           <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
           <folding>
             <element signature="e#0#1155#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1408StringMatchingInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
