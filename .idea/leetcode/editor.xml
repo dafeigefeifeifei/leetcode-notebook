@@ -35,6 +35,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java" />
+              <option name="questionId" value="136" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java">
           <value>
             <LeetcodeEditor>
@@ -88,6 +96,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P728SelfDividingNumbers.java" />
               <option name="questionId" value="728" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P752OpenTheLock.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P752OpenTheLock.java" />
+              <option name="questionId" value="753" />
             </LeetcodeEditor>
           </value>
         </entry>
