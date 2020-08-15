@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$USER_HOME$/Documents/easyLeetcode/leetcode-notebook/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/Documents/easyLeetcode/leetcode-notebook/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java" />
+              <option name="questionId" value="1496" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
           <value>
             <LeetcodeEditor>
@@ -40,6 +48,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java" />
               <option name="questionId" value="136" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java" />
+              <option name="questionId" value="1496" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java" />
+              <option name="questionId" value="1505" />
             </LeetcodeEditor>
           </value>
         </entry>

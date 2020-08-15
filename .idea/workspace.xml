@@ -3,6 +3,98 @@
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1047RemoveAllAdjacentDuplicatesInString$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1047RemoveAllAdjacentDuplicatesInString.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1114PrintInOrder$Foo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1114PrintInOrder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1115PrintFoobarAlternately$FooBar.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1115PrintFoobarAlternately.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P111MinimumDepthOfBinaryTree$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P111MinimumDepthOfBinaryTree$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P111MinimumDepthOfBinaryTree.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1138AlphabetBoardPath$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1138AlphabetBoardPath.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1221SplitAStringInBalancedStrings$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1221SplitAStringInBalancedStrings.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P124BinaryTreeMaximumPathSum$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P124BinaryTreeMaximumPathSum$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P124BinaryTreeMaximumPathSum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P136SingleNumber$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P136SingleNumber.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray$Solution$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1417ReformatTheString$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1417ReformatTheString.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P20ValidParentheses$Solution$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P20ValidParentheses$Solution$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P20ValidParentheses$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P20ValidParentheses.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P217ContainsDuplicate$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P217ContainsDuplicate.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P222CountCompleteTreeNodes$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P222CountCompleteTreeNodes$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P222CountCompleteTreeNodes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P322CoinChange$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P322CoinChange.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P345ReverseVowelsOfAString$Solution$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P345ReverseVowelsOfAString$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P345ReverseVowelsOfAString.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P378KthSmallestElementInASortedMatrix$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P378KthSmallestElementInASortedMatrix.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P443StringCompression$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P443StringCompression.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P450DeleteNodeInABst$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P450DeleteNodeInABst$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P450DeleteNodeInABst.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P46Permutations$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P46Permutations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P509FibonacciNumber$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P509FibonacciNumber.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P520DetectCapital$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P520DetectCapital.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P551StudentAttendanceRecordI$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P551StudentAttendanceRecordI.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P561ArrayPartitionI$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P561ArrayPartitionI.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P592FractionAdditionAndSubtraction$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P592FractionAdditionAndSubtraction.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P728SelfDividingNumbers$Solution$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P728SelfDividingNumbers$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P728SelfDividingNumbers.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P752OpenTheLock$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P752OpenTheLock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P783MinimumDistanceBetweenBstNodes$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P783MinimumDistanceBetweenBstNodes$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P783MinimumDistanceBetweenBstNodes.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P819MostCommonWord$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P819MostCommonWord.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P867TransposeMatrix$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P867TransposeMatrix.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P92ReverseLinkedListIi$ListNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P92ReverseLinkedListIi$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P92ReverseLinkedListIi.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P941ValidMountainArray$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P941ValidMountainArray.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P950RevealCardsInIncreasingOrder$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P950RevealCardsInIncreasingOrder.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof$TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,26 +116,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P136SingleNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java">
+      <file leaf-file-name="P1464MaximumProductOfTwoElementsInAnArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="177">
+              <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P322CoinChange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P322CoinChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
-                <element signature="e#0#1155#0" expanded="true" />
+                <element signature="e#0#1525#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P1464MaximumProductOfTwoElementsInAnArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1380LuckyNumbersInAMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/easyLeetcode/leetcode-notebook/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+            <state relative-caret-position="225">
+              <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P378KthSmallestElementInASortedMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P378KthSmallestElementInASortedMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P561ArrayPartitionI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P561ArrayPartitionI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1389CreateTargetArrayInTheGivenOrder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
               <folding>
-                <element signature="e#0#1940#0" expanded="true" />
+                <element signature="e#0#1963#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1417ReformatTheString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="72" column="5" lean-forward="false" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,6 +291,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1408StringMatchingInAnArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java" />
       </list>
     </option>
   </component>
@@ -127,11 +307,363 @@
         <option name="mavenHome" value="/usr/local/Cellar/maven/3.5.3/libexec" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber Java</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME SupportJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Memory issuesJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Method signatureScala</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -151,9 +683,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +721,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,10 +732,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,8 +749,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P1464MaximumProductOfTwoElementsInAnArray">
-    <configuration name="P136SingleNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult">
+    <configuration name="P1389CreateTargetArrayInTheGivenOrder.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -229,32 +761,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P136SingleNumber" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="P1408StringMatchingInAnArray.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1408StringMatchingInAnArray" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1389CreateTargetArrayInTheGivenOrder" />
       <option name="METHOD_NAME" value="testResult" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -343,20 +850,45 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="P322CoinChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P322CoinChange" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P136SingleNumber" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult2" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult3" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P1464MaximumProductOfTwoElementsInAnArray" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult2" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult3" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P1464MaximumProductOfTwoElementsInAnArray" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P1464MaximumProductOfTwoElementsInAnArray" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult3" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P136SingleNumber" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P1464MaximumProductOfTwoElementsInAnArray" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult3" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P1408StringMatchingInAnArray.testResult2" />
       </list>
     </recent_temporary>
   </component>
@@ -401,15 +933,13 @@
       <workItem from="1595554812485" duration="2620000" />
       <workItem from="1595560614495" duration="117000" />
       <workItem from="1596877142497" duration="4585000" />
+      <workItem from="1597468400283" duration="1845000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P136SingleNumber - 2020.08.08 at 17h 39m 02s.xml">
-      <configuration name="P136SingleNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P136SingleNumber_testResult - 2020.08.08 at 17h 38m 24s.xml">
-      <configuration name="P136SingleNumber.testResult" configurationId="JUnit" />
+    <history-entry file="P1389CreateTargetArrayInTheGivenOrder_testResult - 2020.08.15 at 13h 46m 24s.xml">
+      <configuration name="P1389CreateTargetArrayInTheGivenOrder.testResult" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P1408StringMatchingInAnArray_testResult - 2020.08.08 at 18h 04m 12s.xml">
       <configuration name="P1408StringMatchingInAnArray.testResult" configurationId="JUnit" />
@@ -422,6 +952,9 @@
     </history-entry>
     <history-entry file="P1408StringMatchingInAnArray_testResult3 - 2020.08.08 at 18h 23m 49s.xml">
       <configuration name="P1408StringMatchingInAnArray.testResult3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P322CoinChange - 2020.08.15 at 13h 23m 43s.xml">
+      <configuration name="P322CoinChange" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult - 2020.07.12 at 16h 41m 44s.xml">
       <configuration name="P783MinimumDistanceBetweenBstNodes.testResult" configurationId="JUnit" />
@@ -437,7 +970,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109150000" />
+    <option name="totallyTimeSpent" value="110995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +982,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -457,14 +990,14 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.52360517" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.286578" sideWeight="0.47639486" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.47639486" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23891273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23891273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -751,55 +1284,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" column="39" lean-forward="true" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#2051#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1114PrintInOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="79" column="76" lean-forward="true" selection-start-line="79" selection-start-column="76" selection-end-line="79" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2220">
-          <caret line="176" column="11" lean-forward="false" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P950RevealCardsInIncreasingOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P520DetectCapital.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -941,13 +1425,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 05TiHuanKongGeLcof.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P561ArrayPartitionI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -962,16 +1439,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指Offer56IIShuZuZhongShuZiChuXianDeCiShuIiLcof.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_16.17ContiguousSequenceLcci.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_13JiQiRenDeYunDongFanWeiLcof.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="94" column="23" lean-forward="false" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#2206#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3270">
@@ -986,20 +1453,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P124BinaryTreeMaximumPathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="80" column="25" lean-forward="false" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
           <folding>
-            <element signature="e#0#1715#0" expanded="true" />
+            <element signature="e#0#1715#0" expanded="false" />
             <element signature="e#1105#1106#0" expanded="false" />
             <element signature="e#1121#1122#0" expanded="false" />
           </folding>
@@ -1011,17 +1470,7 @@
         <state relative-caret-position="45">
           <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
-            <element signature="e#0#1131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P322CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#1525#0" expanded="true" />
+            <element signature="e#0#1131#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1084,9 +1533,9 @@
         <state relative-caret-position="450">
           <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
-            <element signature="e#0#1711#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#0#1711#0" expanded="false" />
+            <element signature="e#1093#1094#0" expanded="false" />
+            <element signature="e#1109#1110#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1095,26 +1544,114 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P136SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="360">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
           <folding>
             <element signature="e#0#1155#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="72" column="5" lean-forward="false" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        <state relative-caret-position="177">
+          <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P322CoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="34" column="30" lean-forward="false" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding>
-            <element signature="e#0#1940#0" expanded="true" />
+            <element signature="e#0#1525#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/easyLeetcode/leetcode-notebook/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P378KthSmallestElementInASortedMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P561ArrayPartitionI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="49" column="17" lean-forward="true" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#1963#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1177,7 +1714,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
