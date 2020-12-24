@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1694ReformatPhoneNumber$Solution.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1694ReformatPhoneNumber$Solution.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1694ReformatPhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1694ReformatPhoneNumber.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,89 +28,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="75" column="29" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
-              <folding>
-                <element signature="e#751#817#0" expanded="true" />
-                <element signature="e#1966#2030#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P1694ReformatPhoneNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1694ReformatPhoneNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P面试题_02_07IntersectionOfTwoLinkedListsLcci.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_02_07IntersectionOfTwoLinkedListsLcci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#2167#0" expanded="true" />
-                <element signature="e#1310#1376#0" expanded="true" />
-                <element signature="e#2098#2162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1158">
-              <caret line="90" column="6" lean-forward="false" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#1713#0" expanded="true" />
-                <element signature="n#!!doc;n#Solution#0;n#P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-              <folding>
-                <element signature="e#1084#1150#0" expanded="true" />
-                <element signature="e#1663#1727#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P92ReverseLinkedListIi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="P1389CreateTargetArrayInTheGivenOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="19">
               <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1103DistributeCandiesToPeople.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1103DistributeCandiesToPeople.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="80" column="34" lean-forward="true" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#1979#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,7 +53,7 @@
       <file leaf-file-name="P950RevealCardsInIncreasingOrder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P950RevealCardsInIncreasingOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="133">
               <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
               <folding />
             </state>
@@ -126,7 +63,7 @@
       <file leaf-file-name="P985SumOfEvenNumbersAfterQueries.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="684">
               <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
               <folding />
             </state>
@@ -136,7 +73,7 @@
       <file leaf-file-name="P752OpenTheLock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P752OpenTheLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="1539">
               <caret line="136" column="37" lean-forward="false" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
               <folding />
             </state>
@@ -163,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P539MinimumTimeDifference.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/nonAC/P752OpenTheLock.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P752OpenTheLock.java" />
@@ -214,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1694ReformatPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_02.07IntersectionOfTwoLinkedListsLcci.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_02_07IntersectionOfTwoLinkedListsLcci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1103DistributeCandiesToPeople.java" />
       </list>
     </option>
   </component>
@@ -604,7 +541,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -642,8 +581,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -670,7 +607,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P1694ReformatPhoneNumber">
+  <component name="RunManager" selected="JUnit.P1103DistributeCandiesToPeople.testResult">
+    <configuration name="P1103DistributeCandiesToPeople.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1103DistributeCandiesToPeople" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="P1389CreateTargetArrayInTheGivenOrder.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -771,45 +733,20 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P322CoinChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P322CoinChange" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence.testResult" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P1694ReformatPhoneNumber" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence.testResult" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P1694ReformatPhoneNumber" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P1103DistributeCandiesToPeople.testResult" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P1694ReformatPhoneNumber" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence.testResult" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P322CoinChange" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P1103DistributeCandiesToPeople.testResult" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P1694ReformatPhoneNumber" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence.testResult" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P300LongestIncreasingSubsequence" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P1389CreateTargetArrayInTheGivenOrder.testResult" />
       </list>
     </recent_temporary>
   </component>
@@ -860,44 +797,45 @@
       <workItem from="1606824412557" duration="69000" />
       <workItem from="1608792434808" duration="821000" />
       <workItem from="1608794706045" duration="77000" />
-      <workItem from="1608794800624" duration="4909000" />
+      <workItem from="1608794800624" duration="5078000" />
+      <workItem from="1608800355038" duration="911000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P1694ReformatPhoneNumber - 2020.12.24 at 16h 09m 08s.xml">
-      <configuration name="P1694ReformatPhoneNumber" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 09m 13s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P300LongestIncreasingSubsequence_testResult - 2020.08.19 at 14h 27m 59s.xml">
-      <configuration name="P300LongestIncreasingSubsequence.testResult" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 09m 44s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P300LongestIncreasingSubsequence_testResult - 2020.08.19 at 14h 56m 55s.xml">
-      <configuration name="P300LongestIncreasingSubsequence.testResult" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 10m 20s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P300LongestIncreasingSubsequence_testResult - 2020.08.19 at 14h 57m 46s.xml">
-      <configuration name="P300LongestIncreasingSubsequence.testResult" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 10m 59s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P300LongestIncreasingSubsequence_testResult - 2020.08.19 at 14h 58m 04s.xml">
-      <configuration name="P300LongestIncreasingSubsequence.testResult" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 11m 23s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P300LongestIncreasingSubsequence_testResult - 2020.08.19 at 14h 59m 58s.xml">
-      <configuration name="P300LongestIncreasingSubsequence.testResult" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 12m 40s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P300LongestIncreasingSubsequence_testResult - 2020.08.19 at 15h 00m 12s.xml">
-      <configuration name="P300LongestIncreasingSubsequence.testResult" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 12m 50s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult2 - 2020.07.12 at 16h 46m 23s.xml">
-      <configuration name="P783MinimumDistanceBetweenBstNodes.testResult2" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 13m 03s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P783MinimumDistanceBetweenBstNodes_testResult2 - 2020.07.12 at 16h 50m 22s.xml">
-      <configuration name="P783MinimumDistanceBetweenBstNodes.testResult2" configurationId="JUnit" />
+    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 14m 25s.xml">
+      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof_testResult - 2020.07.12 at 16h 14m 35s.xml">
       <configuration name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118619000" />
+    <option name="totallyTimeSpent" value="119699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -915,23 +853,23 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.49713877" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.52360517" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.5265043" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.47639486" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.4734957" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2277937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23137535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39782345" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39782345" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1156,8 +1094,14 @@
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1103DistributeCandiesToPeople.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="41" />
+      <option name="time" value="42" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1224,19 +1168,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="141" column="35" lean-forward="false" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#4651#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2188#2189#0" expanded="false" />
-            <element signature="e#2204#2205#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -1439,7 +1370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1470,17 +1400,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P950RevealCardsInIncreasingOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="133">
           <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
           <folding />
         </state>
@@ -1488,7 +1410,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="684">
           <caret line="72" column="24" lean-forward="false" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
           <folding />
         </state>
@@ -1496,30 +1418,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P752OpenTheLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="1539">
           <caret line="136" column="37" lean-forward="false" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1528ShuffleString.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_02_07IntersectionOfTwoLinkedListsLcci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="75" column="29" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+        <state relative-caret-position="113">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
-            <element signature="e#751#817#0" expanded="true" />
-            <element signature="e#1966#2030#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#2167#0" expanded="true" />
+            <element signature="e#1310#1376#0" expanded="true" />
+            <element signature="e#2098#2162#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1530,6 +1443,17 @@
           <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="75" column="29" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+          <folding>
+            <element signature="e#751#817#0" expanded="true" />
+            <element signature="e#1966#2030#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1556,14 +1480,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_02_07IntersectionOfTwoLinkedListsLcci.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="-837">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#2167#0" expanded="true" />
-            <element signature="e#1310#1376#0" expanded="true" />
-            <element signature="e#2098#2162#0" expanded="true" />
+            <element signature="e#0#1487#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1389CreateTargetArrayInTheGivenOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="46" column="3" lean-forward="false" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1103DistributeCandiesToPeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="80" column="34" lean-forward="true" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#1979#0" expanded="true" />
           </folding>
         </state>
       </provider>
