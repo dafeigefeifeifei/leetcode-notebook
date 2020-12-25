@@ -50,13 +50,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P476NumberComplement.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P476NumberComplement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P476NumberComplement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+            <state relative-caret-position="44">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
                 <element signature="e#0#1317#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P589NAryTreePreorderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P589NAryTreePreorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="62" column="29" lean-forward="false" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#1184#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#440#506#0" expanded="true" />
+                <element signature="e#440#506#0" expanded="true" />
+                <element signature="e#1115#1179#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P941ValidMountainArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P592FractionAdditionAndSubtraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P20ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1115PrintFoobarAlternately.java" />
@@ -133,6 +149,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P717OneBitAnd2BitCharacters.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P434NumberOfSegmentsInAString.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P476NumberComplement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P589NAryTreePreorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -785,9 +802,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 09m 13s.xml">
-      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 09m 44s.xml">
       <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
@@ -812,12 +826,15 @@
     <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 14m 25s.xml">
       <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="P476NumberComplement - 2020.12.25 at 20h 19m 22s.xml">
+      <configuration name="P476NumberComplement" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof_testResult - 2020.07.12 at 16h 14m 35s.xml">
       <configuration name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121360000" />
+    <option name="totallyTimeSpent" value="121804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -838,11 +855,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.5265043" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.4734957" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29383314" sideWeight="0.4734957" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24212034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
@@ -1170,13 +1187,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P867TransposeMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1035UncrossedLines.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P551StudentAttendanceRecordI.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1406,8 +1416,8 @@
           <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
             <element signature="e#0#2167#0" expanded="true" />
-            <element signature="e#1310#1376#0" expanded="true" />
-            <element signature="e#2098#2162#0" expanded="true" />
+            <element signature="e#1310#1376#0" expanded="false" />
+            <element signature="e#2098#2162#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1439,7 +1449,7 @@
           <caret line="90" column="6" lean-forward="false" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
           <folding>
             <element signature="e#0#1713#0" expanded="true" />
-            <element signature="n#!!doc;n#Solution#0;n#P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof#0" expanded="true" />
+            <element signature="n#!!doc;n#Solution#0;n#P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1499,10 +1509,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P476NumberComplement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+        <state relative-caret-position="44">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#0#1317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P589NAryTreePreorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="62" column="29" lean-forward="false" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#1184#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#440#506#0" expanded="true" />
+            <element signature="e#440#506#0" expanded="true" />
+            <element signature="e#1115#1179#0" expanded="true" />
           </folding>
         </state>
       </provider>
