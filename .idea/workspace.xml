@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P51NQueens$Solution.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P51NQueens.class" afterPath="" />
-    </list>
+    <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,79 +36,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P47PermutationsIi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P47PermutationsIi.java">
+      <file leaf-file-name="P1460MakeTwoArraysEqualByReversingSubArrays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#1528#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="n#!!doc;n#Solution#0;n#P47PermutationsIi#0" expanded="true" />
-                <element signature="e#1459#1523#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P690EmployeeImportance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P690EmployeeImportance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#1721#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
-                <element signature="e#817#883#0" expanded="true" />
-                <element signature="e#1652#1716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P1446ConsecutiveCharacters.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="87" column="24" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#1839#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Function.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="307">
+              <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <file leaf-file-name="P819MostCommonWord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P819MostCommonWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <marker date="1524577636943" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1524577636943" expanded="true" signature="277:284" ph="{}" />
-                <marker date="1524577636943" expanded="true" signature="327:499" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P46Permutations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P46Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="60" column="20" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="-261">
+              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -139,7 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P345ReverseVowelsOfAString.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal .java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.java" />
@@ -190,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P51NQueens.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P690EmployeeImportance.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java" />
       </list>
     </option>
   </component>
@@ -842,7 +780,7 @@
       <workItem from="1609207491419" duration="230000" />
       <workItem from="1609740112524" duration="7506000" />
       <workItem from="1610086897001" duration="71000" />
-      <workItem from="1610101897547" duration="3030000" />
+      <workItem from="1610101897547" duration="4717000" />
     </task>
     <servers />
   </component>
@@ -859,8 +797,8 @@
     <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 25m 03s.xml">
       <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 36m 54s.xml">
-      <configuration name="P51NQueens.testResult" configurationId="JUnit" />
+    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 25m 26s.xml">
+      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 37m 31s.xml">
       <configuration name="P51NQueens.testResult" configurationId="JUnit" />
@@ -879,7 +817,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134237000" />
+    <option name="totallyTimeSpent" value="135924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -899,9 +837,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.5265043" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1017192" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.4734957" order="7" side_tool="false" content_ui="tabs" />
@@ -1212,13 +1150,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指Offer10IFeiBoNaQiShuLieLcof.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指Offer10IIQingWaTiaoTaiJieWenTiLcof.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指Offer13JiQiRenDeYunDongFanWeiLcof.java" />
@@ -1509,11 +1440,11 @@
         <state relative-caret-position="439">
           <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
           <folding>
-            <element signature="e#0#1528#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="n#!!doc;n#Solution#0;n#P47PermutationsIi#0" expanded="true" />
-            <element signature="e#1459#1523#0" expanded="true" />
+            <element signature="e#0#1528#0" expanded="false" />
+            <element signature="e#547#548#0" expanded="false" />
+            <element signature="e#630#631#0" expanded="false" />
+            <element signature="n#!!doc;n#Solution#0;n#P47PermutationsIi#0" expanded="false" />
+            <element signature="e#1459#1523#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1531,30 +1462,38 @@
         <state relative-caret-position="314">
           <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
           <folding>
-            <element signature="e#0#1721#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#817#883#0" expanded="true" />
-            <element signature="e#1652#1716#0" expanded="true" />
+            <element signature="e#0#1721#0" expanded="false" />
+            <element signature="e#744#745#0" expanded="false" />
+            <element signature="e#814#815#0" expanded="false" />
+            <element signature="e#817#883#0" expanded="false" />
+            <element signature="e#1652#1716#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
+        <state relative-caret-position="177">
           <caret line="87" column="24" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
           <folding>
             <element signature="e#0#1839#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P819MostCommonWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="54" column="3" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
