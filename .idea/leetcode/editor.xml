@@ -99,6 +99,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java" />
+              <option name="questionId" value="1542" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java" />
+              <option name="questionId" value="1556" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1464MaximumProductOfTwoElementsInAnArray.java">
           <value>
             <LeetcodeEditor>

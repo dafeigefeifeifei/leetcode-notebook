@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P51NQueens$Solution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P51NQueens.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,17 +56,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P690EmployeeImportance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P690EmployeeImportance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P690EmployeeImportance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="314">
+              <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
               <folding>
                 <element signature="e#0#1721#0" expanded="true" />
                 <element signature="e#744#745#0" expanded="true" />
                 <element signature="e#814#815#0" expanded="true" />
                 <element signature="e#817#883#0" expanded="true" />
                 <element signature="e#1652#1716#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1446ConsecutiveCharacters.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="87" column="24" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#1839#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P675CutOffTreesForGolfEvent.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P345ReverseVowelsOfAString.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal .java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java" />
@@ -179,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P47PermutationsIi.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P51NQueens.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P690EmployeeImportance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java" />
       </list>
     </option>
   </component>
@@ -635,8 +646,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P51NQueens.testResult">
-    <configuration name="P1103DistributeCandiesToPeople.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.P1446ConsecutiveCharacters">
+    <configuration name="P1446ConsecutiveCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -647,9 +658,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1103DistributeCandiesToPeople" />
-      <option name="METHOD_NAME" value="testResult" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1446ConsecutiveCharacters" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -762,19 +773,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P1103DistributeCandiesToPeople.testResult" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P476NumberComplement" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray.testResult" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P51NQueens.testResult" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P476NumberComplement" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray.testResult" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P51NQueens.testResult" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P1446ConsecutiveCharacters" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P51NQueens.testResult" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray.testResult" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P476NumberComplement" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P1103DistributeCandiesToPeople.testResult" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P1446ConsecutiveCharacters" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P51NQueens.testResult" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray.testResult" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P476NumberComplement" />
       </list>
     </recent_temporary>
   </component>
@@ -831,22 +842,22 @@
       <workItem from="1609207491419" duration="230000" />
       <workItem from="1609740112524" duration="7506000" />
       <workItem from="1610086897001" duration="71000" />
-      <workItem from="1610101897547" duration="1842000" />
+      <workItem from="1610101897547" duration="3030000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P1103DistributeCandiesToPeople_testResult - 2020.12.24 at 17h 14m 25s.xml">
-      <configuration name="P1103DistributeCandiesToPeople.testResult" configurationId="JUnit" />
+    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 24m 06s.xml">
+      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P476NumberComplement - 2020.12.25 at 20h 19m 22s.xml">
-      <configuration name="P476NumberComplement" configurationId="JUnit" />
+    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 24m 23s.xml">
+      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 26m 39s.xml">
-      <configuration name="P51NQueens.testResult" configurationId="JUnit" />
+    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 24m 48s.xml">
+      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 34m 05s.xml">
-      <configuration name="P51NQueens.testResult" configurationId="JUnit" />
+    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 25m 03s.xml">
+      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 36m 54s.xml">
       <configuration name="P51NQueens.testResult" configurationId="JUnit" />
@@ -868,7 +879,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133049000" />
+    <option name="totallyTimeSpent" value="134237000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -884,12 +895,13 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.49713877" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.5265043" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18839541" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.4734957" order="7" side_tool="false" content_ui="tabs" />
@@ -915,7 +927,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.49713877" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1201,14 +1212,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50425">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指 Offer 05TiHuanKongGeLcof.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1413MinimumValueToGetPositiveStepByStepSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -1525,14 +1528,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P690EmployeeImportance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="314">
+          <caret line="55" column="32" lean-forward="true" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
           <folding>
             <element signature="e#0#1721#0" expanded="true" />
             <element signature="e#744#745#0" expanded="true" />
             <element signature="e#814#815#0" expanded="true" />
             <element signature="e#817#883#0" expanded="true" />
             <element signature="e#1652#1716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1446ConsecutiveCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="87" column="24" lean-forward="true" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#1839#0" expanded="true" />
           </folding>
         </state>
       </provider>
