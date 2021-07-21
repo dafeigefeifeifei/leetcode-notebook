@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/all.json" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/translation.json" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,13 +38,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="P1796SecondLargestDigitInAString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P1796SecondLargestDigitInAString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1796SecondLargestDigitInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="139">
+              <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
               <folding>
                 <element signature="e#0#1617#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P848ShiftingLetters.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P92ReverseLinkedListIi.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1114PrintInOrder.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -138,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1460MakeTwoArraysEqualByReversingSubArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P682BaseballGame.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1796SecondLargestDigitInAString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java" />
       </list>
     </option>
   </component>
@@ -594,7 +603,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.P1796SecondLargestDigitInAString">
+  <component name="RunManager" selected="JUnit.P848ShiftingLetters.testResult1">
     <configuration name="P1446ConsecutiveCharacters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -645,31 +654,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P51NQueens.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.editor.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P51NQueens" />
-      <option name="METHOD_NAME" value="testResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="P682BaseballGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -695,7 +679,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="P697DegreeOfAnArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="P848ShiftingLetters.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
@@ -706,9 +690,34 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P697DegreeOfAnArray" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P848ShiftingLetters" />
+      <option name="METHOD_NAME" value="testResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="P848ShiftingLetters.testResult1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="leetcode-notebook" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P848ShiftingLetters" />
+      <option name="METHOD_NAME" value="testResult1" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -721,19 +730,19 @@
       <patterns />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P51NQueens.testResult" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P1446ConsecutiveCharacters" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P682BaseballGame" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P1796SecondLargestDigitInAString" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.P1446ConsecutiveCharacters" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.P682BaseballGame" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P1796SecondLargestDigitInAString" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P1796SecondLargestDigitInAString" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P682BaseballGame" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P1446ConsecutiveCharacters" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P51NQueens.testResult" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P697DegreeOfAnArray" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P1796SecondLargestDigitInAString" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.P682BaseballGame" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.P1446ConsecutiveCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -792,31 +801,13 @@
       <workItem from="1610086897001" duration="71000" />
       <workItem from="1610101897547" duration="4872000" />
       <workItem from="1610524155565" duration="3190000" />
-      <workItem from="1626871354164" duration="659000" />
+      <workItem from="1626871354164" duration="2164000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 24m 48s.xml">
-      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 25m 03s.xml">
-      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P1446ConsecutiveCharacters - 2021.01.08 at 19h 25m 26s.xml">
-      <configuration name="P1446ConsecutiveCharacters" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="P1796SecondLargestDigitInAString - 2021.07.21 at 20h 53m 31s.xml">
       <configuration name="P1796SecondLargestDigitInAString" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 37m 31s.xml">
-      <configuration name="P51NQueens.testResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P51NQueens_testResult - 2021.01.04 at 20h 38m 16s.xml">
-      <configuration name="P51NQueens.testResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="P682BaseballGame - 2021.01.13 at 16h 25m 27s.xml">
-      <configuration name="P682BaseballGame" configurationId="JUnit" />
     </history-entry>
     <history-entry file="P697DegreeOfAnArray - 2021.01.04 at 14h 33m 47s.xml">
       <configuration name="P697DegreeOfAnArray" configurationId="JUnit" />
@@ -824,12 +815,30 @@
     <history-entry file="P697DegreeOfAnArray_testResult - 2021.01.04 at 14h 32m 43s.xml">
       <configuration name="P697DegreeOfAnArray.testResult" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="P848ShiftingLetters_testResult - 2021.07.21 at 21h 09m 37s.xml">
+      <configuration name="P848ShiftingLetters.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P848ShiftingLetters_testResult - 2021.07.21 at 21h 10m 38s.xml">
+      <configuration name="P848ShiftingLetters.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P848ShiftingLetters_testResult - 2021.07.21 at 21h 11m 03s.xml">
+      <configuration name="P848ShiftingLetters.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P848ShiftingLetters_testResult - 2021.07.21 at 21h 15m 46s.xml">
+      <configuration name="P848ShiftingLetters.testResult" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P848ShiftingLetters_testResult1 - 2021.07.21 at 21h 17m 23s.xml">
+      <configuration name="P848ShiftingLetters.testResult1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="P848ShiftingLetters_testResult1 - 2021.07.21 at 21h 18m 35s.xml">
+      <configuration name="P848ShiftingLetters.testResult1" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof_testResult - 2020.07.12 at 16h 14m 35s.xml">
       <configuration name="P剑指_offer_54ErChaSouSuoShuDeDiKdaJieDianLcof.testResult" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139928000" />
+    <option name="totallyTimeSpent" value="141433000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -847,9 +856,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.49713877" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29383314" sideWeight="0.52936965" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39782345" sideWeight="0.5028653" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.48497853" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.4756447" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14971347" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Sequence" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -860,7 +869,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39782345" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39782345" sideWeight="0.49713466" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1094,13 +1103,25 @@
           <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="46" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="list" language="JAVA" />
-        <watch expression="a" language="JAVA" />
+        <watch expression="move%26" language="JAVA" />
+        <watch expression="sb.toString()" language="JAVA" />
       </configuration>
       <configuration name="Application">
         <watch expression="stack.peek()" language="JAVA" />
@@ -1109,6 +1130,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>sb.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>move%26</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>a</expression-string>
         <language-id>JAVA</language-id>
@@ -1149,20 +1180,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>isLeft</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>next.val</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指Offer13JiQiRenDeYunDongFanWeiLcof.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题16.05FactorialZerosLcci.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指Offer56IIShuZuZhongShuZiChuXianDeCiShuIiLcof.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P面试题_16.17ContiguousSequenceLcci.java" />
@@ -1494,10 +1514,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1796SecondLargestDigitInAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="139">
+          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
           <folding>
             <element signature="e#0#1617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
