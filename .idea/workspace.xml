@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="78693cbc-af44-4fc5-ad20-d714d2df0a35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1408StringMatchingInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1408StringMatchingInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray$Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray$Solution$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P1408StringMatchingInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P763PartitionLabels$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/editor/cn/P763PartitionLabels$Solution.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,144 +43,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="P1796SecondLargestDigitInAString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1796SecondLargestDigitInAString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#1617#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P848ShiftingLetters.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="54" column="57" lean-forward="false" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P763PartitionLabels.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P763PartitionLabels.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#1492#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Assert.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="235" column="23" lean-forward="false" selection-start-line="235" selection-start-column="23" selection-end-line="235" selection-end-column="23" />
-              <folding>
-                <marker date="1524577636943" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1524577636943" expanded="false" signature="133:343" ph="..." />
-                <marker date="1524577636943" expanded="true" signature="390:397" ph="{}" />
-                <marker date="1524577636943" expanded="true" signature="468:539" ph="{...}" />
-                <marker date="1524577636943" expanded="false" signature="593:604" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="640:646" ph=" }" />
-                <marker date="1524577636943" expanded="false" signature="717:728" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="760:766" ph=" }" />
-                <marker date="1524577636943" expanded="false" signature="821:832" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="869:875" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="921:1073" ph="{...}" />
-                <marker date="1524577636943" expanded="false" signature="1104:1115" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="1134:1140" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="1226:1627" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="1708:1856" ph="{...}" />
-                <marker date="1524577636943" expanded="false" signature="1925:1936" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="1967:1973" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="2043:2120" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="2211:2325" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="2400:2466" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="2534:2760" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="2847:2942" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="3013:3079" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="3184:3304" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="3393:3466" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="3552:3625" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="3752:3817" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="3898:3986" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="4115:4180" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="4263:4353" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="4476:4541" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="4618:4702" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="4825:4890" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="4967:5051" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="5176:5241" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="5320:5406" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="5527:5592" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="5667:5749" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="5872:5937" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="6014:6098" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="6239:6335" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="6430:6505" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="6643:6739" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="6831:6906" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="7032:7121" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="7221:7351" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="7448:7577" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="7679:7798" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="7881:8030" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="8109:8257" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="8322:8333" ph=" { " />
-                <marker date="1524577636943" expanded="true" signature="8378:8384" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="8466:8572" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="8578:8596" ph="/**...*/" />
-                <marker date="1524577636943" expanded="false" signature="8680:8691" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="8736:8742" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="8748:8766" ph="/**...*/" />
-                <marker date="1524577636943" expanded="true" signature="8867:8967" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="9051:9119" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="9200:9268" ph="{...}" />
-                <marker date="1524577636943" expanded="false" signature="9337:9348" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="9384:9390" ph=" }" />
-                <marker date="1524577636943" expanded="false" signature="9443:9454" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="9490:9496" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="9563:9652" ph="{...}" />
-                <marker date="1524577636943" expanded="false" signature="9702:9713" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="9746:9752" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="9821:10009" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="10093:10196" ph="{...}" />
-                <marker date="1524577636943" expanded="false" signature="10263:10274" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="10317:10323" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="10412:10497" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="10570:10634" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="10685:10851" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="10937:11143" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="11231:11287" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="11362:11883" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="11965:12104" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="12110:12128" ph="/**...*/" />
-                <marker date="1524577636943" expanded="true" signature="12235:12298" ph="{...}" />
-                <marker date="1524577636943" expanded="true" signature="12304:12322" ph="/**...*/" />
-                <marker date="1524577636943" expanded="false" signature="12412:12423" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="12461:12467" ph=" }" />
-                <marker date="1524577636943" expanded="false" signature="12544:12555" ph=" { " />
-                <marker date="1524577636943" expanded="false" signature="12587:12593" ph=" }" />
-                <marker date="1524577636943" expanded="true" signature="12686:12752" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -253,22 +123,21 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="/usr/local/Cellar/maven/3.5.3/libexec" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="2FIFJBQPffwN7E805p9ZGvL9vX3" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -676,170 +545,121 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.P763PartitionLabels.testResult">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/colinlee/Documents/openSource/leetcode-notebook&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;leetcode.id&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.P66PlusOne">
     <configuration name="P1796SecondLargestDigitInAString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="leetcode-notebook" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P1796SecondLargestDigitInAString" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="P682BaseballGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="P66PlusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-notebook" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P682BaseballGame" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P66PlusOne" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P763PartitionLabels.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="leetcode-notebook" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P763PartitionLabels" />
       <option name="METHOD_NAME" value="testResult" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P848ShiftingLetters.testResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="leetcode-notebook" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P848ShiftingLetters" />
       <option name="METHOD_NAME" value="testResult" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="P848ShiftingLetters.testResult1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="leetcode-notebook" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.editor.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="leetcode-notebook" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="leetcode.editor.cn" />
       <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P848ShiftingLetters" />
       <option name="METHOD_NAME" value="testResult1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.P682BaseballGame" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.P1796SecondLargestDigitInAString" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.P763PartitionLabels.testResult" />
+    <list>
+      <item itemvalue="JUnit.P66PlusOne" />
+      <item itemvalue="JUnit.P1796SecondLargestDigitInAString" />
+      <item itemvalue="JUnit.P848ShiftingLetters.testResult" />
+      <item itemvalue="JUnit.P848ShiftingLetters.testResult1" />
+      <item itemvalue="JUnit.P763PartitionLabels.testResult" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.P763PartitionLabels.testResult" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult1" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.P848ShiftingLetters.testResult" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.P1796SecondLargestDigitInAString" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.P682BaseballGame" />
+      <list>
+        <item itemvalue="JUnit.P66PlusOne" />
+        <item itemvalue="JUnit.P763PartitionLabels.testResult" />
+        <item itemvalue="JUnit.P848ShiftingLetters.testResult1" />
+        <item itemvalue="JUnit.P848ShiftingLetters.testResult" />
+        <item itemvalue="JUnit.P1796SecondLargestDigitInAString" />
       </list>
     </recent_temporary>
   </component>
@@ -848,9 +668,7 @@
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -899,6 +717,8 @@
       <workItem from="1610101897547" duration="4872000" />
       <workItem from="1610524155565" duration="3190000" />
       <workItem from="1626871354164" duration="3932000" />
+      <workItem from="1664171617589" duration="1077000" />
+      <workItem from="1667806803100" duration="841000" />
     </task>
     <servers />
   </component>
@@ -993,36 +813,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1030,190 +832,158 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P752OpenTheLock.java</url>
           <line>96</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P941ValidMountainArray.java</url>
           <line>65</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P592FractionAdditionAndSubtraction.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P592FractionAdditionAndSubtraction.java</url>
           <line>89</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P592FractionAdditionAndSubtraction.java</url>
           <line>95</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P20ValidParentheses.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P20ValidParentheses.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P345ReverseVowelsOfAString.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P105ConstructBinaryTreeFromPreorderAndInorderTraversal.java</url>
           <line>58</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P926FlipStringToMonotoneIncreasing.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P520DetectCapital.java</url>
           <line>77</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>148</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>127</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>191</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>221</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>142</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>184</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P450DeleteNodeInABst.java</url>
           <line>132</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P985SumOfEvenNumbersAfterQueries.java</url>
           <line>84</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P819MostCommonWord.java</url>
           <line>73</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P443StringCompression.java</url>
           <line>145</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P443StringCompression.java</url>
           <line>119</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java</url>
           <line>79</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1417ReformatTheString.java</url>
           <line>87</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java</url>
           <line>58</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P剑指_offer_62YuanQuanZhongZuiHouShengXiaDeShuZiLcof.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P300LongestIncreasingSubsequence.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P300LongestIncreasingSubsequence.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P1103DistributeCandiesToPeople.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java</url>
           <line>60</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/editor/cn/P848ShiftingLetters.java</url>
           <line>71</line>
-          <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="46" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1374,7 +1144,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/easyLeetcode/leetcode-notebook/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
+    <entry file="file://$PROJECT_DIR$/../../easyLeetcode/leetcode-notebook/src/main/java/leetcode/editor/cn/P1380LuckyNumbersInAMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="60" column="1" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
