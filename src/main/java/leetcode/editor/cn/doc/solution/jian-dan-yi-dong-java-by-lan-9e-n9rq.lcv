@@ -1,0 +1,31 @@
+### 解题思路
+
+用int数组代替map统计字母出现次数，提升性能
+思路：
+先遍历一遍，统计字母次数。
+第二次遍历，统计次数为1则返回索引。
+
+### 代码
+
+* java
+
+```java
+class Solution {
+    public int firstUniqChar(String s) {
+        int[] count = new int[26];//题目表示只包含26位小写字母，所以26长度
+        char[] arr = s.toCharArray();//数组遍历速度比字符串快
+        for(char c:arr){
+            count[c-'a']++;//下标0代表字母a的出现次数
+        }
+        //第二次遍历依旧从字符串s的数组 开始遍历找第一个唯一字符，
+        for(char c:arr){
+            //字母的统计次数为1则返回该字母在字符串s的下标
+            if(count[c-'a'] == 1){
+                return s.indexOf(c);
+            }
+        }
+        return -1;
+    }
+}
+```
+

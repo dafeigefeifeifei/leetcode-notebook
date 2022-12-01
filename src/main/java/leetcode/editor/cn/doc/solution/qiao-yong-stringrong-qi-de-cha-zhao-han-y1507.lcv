@@ -1,0 +1,23 @@
+![image.png](https://pic.leetcode-cn.com/1629509730-hhiJnv-image.png)
+**s.find(s[i]) :** 返回字符串s中从左向右查找s[i]第一次出现的位置；
+**s.rfind(s[i]) :** 返回字符串s中从右向左查找s[i]第一次出现的位置；
+
+代码简洁明了，一看码上懂。
+话不多说，码上见……😁
+
+* []
+
+```c++
+class Solution {
+public:
+    int firstUniqChar(string s) {
+        for(int i = 0; i < s.size() ; i++){
+            if(s.find(s[i]) == s.rfind(s[i])){
+                return i;
+            }
+        }
+        return -1;
+    }
+};
+```
+
