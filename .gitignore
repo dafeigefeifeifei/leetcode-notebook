@@ -1,0 +1,10 @@
+target/
+.idea/
+**/.idea
+**/*.iml
+**/.mvn
+*.iws
+*.iml
+*.ipr
+.DS_Store
+src/main/java/leetcode/editor/cn/doc/
