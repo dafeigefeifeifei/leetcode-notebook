@@ -1,0 +1,51 @@
+> Problem: [27. 移除元素](https://leetcode.cn/problems/remove-element/description/)
+
+[TOC]
+
+# 思路
+
+> 看到同数组一开始想双指针，但是后面看到val值范围 然后就想着把需要去除的值自己改动为超出他的最大值，就可以保证需要去除的目标在最后
+
+# 解题方法
+
+> 冒泡排序 中间判断一下有几个目标值 设置为最大 冒泡排序 然后取出前面的
+> 两次冒泡排序单纯是看下哪个更快 没啥意义 一个就行 优化的话应该有优化空间
+
+# 复杂度
+
+- 时间复杂度:
+
+> 添加时间复杂度, 示例： $O(n)$
+
+- 空间复杂度:
+
+> 添加空间复杂度, 示例： $O(n)$
+
+# Code
+
+* []
+
+```Java
+
+class Solution {
+    public int removeElement(int[] nums, int val) {
+        int len =nums.length;
+        int tag=0;
+        int le=len-1;
+        Arrays.sort(nums);
+    
+        for(int i=0;i<len;i++){
+            if(nums[i]==val){
+               nums[i]=101;
+                tag=tag+1;
+            }
+        }
+       Arrays.sort(nums);
+          return len- tag; 
+        }
+   
+    }   
+
+ 
+```
+
